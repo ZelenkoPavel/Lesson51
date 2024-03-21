@@ -10,7 +10,7 @@ int main() {
 	int y = 10;
 	int z = 20;
 
-	cout << sum(x, y, z) << endl;
+	cout << sum(x, y) << endl;
 	
 	return 0;
 }
